@@ -7,4 +7,6 @@ Checks: >
     performance-*,
     readability-*,
     -readability-identifier-length,
-    -readability-isolate-declaration
+    -readability-isolate-declaration,
+    -readability-magic-numbers,
+    -cppcoreguidelines-avoid-magic-numbers
